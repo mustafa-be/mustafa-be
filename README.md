@@ -19,7 +19,7 @@ I am Muhammad Mustafa and currently working in Stakater as a Software Engineer. 
 
 🌱 I’m currently learning about Databases & Data Modelling  
 🔭 I try to do leetcode & stratascratch daily  
-📫 How to reach me: mumustafa899@gmail.com  
+📫 Email me at : mumustafa899@gmail.com  
 
 
 #### Social :  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)
