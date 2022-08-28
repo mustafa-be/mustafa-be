@@ -1,8 +1,10 @@
-### Hi there, Mustafa Here & I am a Data Engineer / Openshift Engineer 👋👋
+## Hi there, Mustafa Here 👋👋
+
+### I am a Data Engineer / Openshift Engineer
 
 I am currently working in Stakater as a Software Engineer. I am currently working on **K8s/Openshift** Ecosystem and mainly work on CI/CD using **Argocd, & Tekton, Helm Charts, Vault**. My background is in Data Engineering and ETL and I have hands-on experience with data frameworks like **Apache Spark, Apache Hive,Nifi**. I am also proficient in **Python, Pandas, Docker, Java, Spark, SQL, Spark SQL.** ✨✨
 
-#### Skills & Technologies :
+### Skills & Technologies :
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -16,17 +18,15 @@ I am currently working in Stakater as a Software Engineer. I am currently workin
   </p>
 
 
-#### What am I upto?
+### What am I upto?
 
 🌱 I’m currently learning about Databases & Data Modelling  
 🔭 I try to do leetcode & stratascratch daily  
-📫 Email me at : mumustafa899@gmail.com  
+📫 Email me at : mumustafa899@gmail.com
 
  
- 
-#### LinkedIn   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)
-
+Reach me out: 
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadmustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)  [![Gmail Badge](https://img.shields.io/badge/-mumustafa899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mumustafa899@gmail.com)](mailto:mumustafa899@gmail.com)
 
 
 
