@@ -1,8 +1,8 @@
 ## Hi there, Mustafa Here 👋👋
 
-### I am a Data Engineer / Openshift Engineer
+### I am a Devops Engineer / Data Engineer
 
-I am currently working in Stakater as a Software Engineer. I am currently working on **K8s/Openshift** Ecosystem and mainly work on CI/CD using **Argocd, & Tekton, Helm Charts, Vault**. My background is in Data Engineering and ETL and I have hands-on experience with data frameworks like **Apache Spark, Apache Hive,Nifi**. I am also proficient in **Python, Pandas, Docker, Java, Spark, SQL, Spark SQL.** ✨✨
+I am currently working in Stakater as a Software Engineer. I am currently working on **K8s/Openshift** Ecosystem and mainly work on CI/CD using **Argocd, & Tekton, Helm, Vault**. My background is in Data Engineering and ETL and I have hands-on experience with data frameworks like **Apache Spark, Python**. 
 
 ### Skills & Technologies :
   <p>
@@ -17,6 +17,8 @@ I am currently working in Stakater as a Software Engineer. I am currently workin
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
   </p>
 
+### Certifications 
+- Certified Kubernetes Application Developer (CKAD)
 
 ### What am I upto?
 
