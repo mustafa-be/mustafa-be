@@ -1,8 +1,8 @@
 ## Hi there, Mustafa Here 👋👋
 
-### I am a Devops Engineer / Data Engineer
+### I am a Devops Engineer
 
-I am currently working in Stakater as a Software Engineer. I am currently working on **K8s/Openshift** Ecosystem and mainly work on CI/CD using **Argocd, & Tekton, Helm, Vault**. My background is in Data Engineering and ETL and I have hands-on experience with data frameworks like **Apache Spark, Python**. 
+I am currently working in Stakater as a Software Engineer. I am currently working on **Kubernetes and Openshift** on technologies such as **Argocd, & Tekton, Helm, Vault, External Secrets, Github Actions**.
 
 ### Skills & Technologies :
   <p>
@@ -22,19 +22,13 @@ I am currently working in Stakater as a Software Engineer. I am currently workin
 
 ### What am I upto?
 
-🌱 I’m currently learning about Databases & Data Modelling  
+🌱 I’m currently preparing for Terraform Associate Certification  
 🔭 I try to do leetcode & stratascratch daily  
 📫 Email me at : mumustafa899@gmail.com
 
  
 Reach me out: 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadmustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)  [![Gmail Badge](https://img.shields.io/badge/-mumustafa899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mumustafa899@gmail.com)](mailto:mumustafa899@gmail.com)
-
-
-
-
-
-
 
 
 
