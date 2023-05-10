@@ -24,11 +24,10 @@ I am currently working in Stakater as a Software Engineer. I am currently workin
 
 🌱 I’m currently preparing for Terraform Associate Certification  
 🔭 I try to do leetcode & stratascratch daily  
-📫 Email me at : mumustafa899@gmail.com
-
+📫 Email me at : 
  
 Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadmustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)  [![Gmail Badge](https://img.shields.io/badge/-mumustafa899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mumustafa899@gmail.com)](mailto:mumustafa899@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadmustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)  [![Gmail Badge](https://img.shields.io/badge/-mumustafa899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mumustafa899@gmail.com)](mailto:)
 
 
 
