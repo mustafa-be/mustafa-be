@@ -2,7 +2,7 @@
 
 ### I am a Devops Engineer
 
-I am currently working in Stakater as a Software Engineer. I am currently working on **Kubernetes and Openshift** on technologies such as **Argocd, & Tekton, Helm, Vault, External Secrets, Github Actions**.
+I am currently working in Stakater as a Software Engineer. I am currently working on **Kubernetes** on technologies such as **Terraform, Argocd, Tekton, Helm, Vault, External Secrets, Github Actions, Service Meshes**.
 
 ### Skills & Technologies :
   <p>
