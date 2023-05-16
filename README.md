@@ -18,18 +18,8 @@ I am currently working in Stakater as a Software Engineer. I am currently workin
   </p>
 
 ### Certifications 
+- Terraform Associate (003)
 - Certified Kubernetes Application Developer (CKAD)
-
-### What am I upto?
-
-🌱 I’m currently preparing for Terraform Associate Certification  
-🔭 I try to do leetcode & stratascratch daily  
-📫 Email me at : 
- 
-Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadmustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/muhammad-mustafa-41576b1a4/)  [![Gmail Badge](https://img.shields.io/badge/-mumustafa899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mumustafa899@gmail.com)](mailto:)
-
-
 
 <!--
 **mustafa-be/mustafa-be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
